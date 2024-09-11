@@ -29,7 +29,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src= <img width="774" alt="permissions" src="https://github.com/user-attachments/assets/9dd71e4d-7aef-461e-b137-2003dd81dccc">
+<img  src="https://github.com/user-attachments/assets/9dd71e4d-7aef-461e-b137-2003dd81dccc">
 />
 </p>
 <p>
@@ -38,7 +38,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src= <img width="715" alt="sla" src="https://github.com/user-attachments/assets/0900eafb-6288-4ffd-9837-01c071365db3">
+<img src="https://github.com/user-attachments/assets/0900eafb-6288-4ffd-9837-01c071365db3">
  />
 </p>
 <p>
@@ -47,7 +47,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src= <img width="741" alt="help topics" src="https://github.com/user-attachments/assets/83555f69-6f53-4e55-abb4-9c0c2acd135b">
+<img src="https://github.com/user-attachments/assets/83555f69-6f53-4e55-abb4-9c0c2acd135b">
  />
 </p>
 <p>
