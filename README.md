@@ -20,11 +20,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Virtual Machine 
+- OsTicket 
 
 <h2>Configuration Steps</h2>
 
@@ -32,7 +29,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img  src="https://github.com/user-attachments/assets/9dd71e4d-7aef-461e-b137-2003dd81dccc" alt="Permissions"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once you have a virtual machine with osTicket installed, its time to create ticket visibility. You must create roles such as supreme admin first so you can create and assign departments. You can create departments such as help desk or networking, to redirect tickets to the correct department. After creating departments, the next task is to create teams. Last but not least, you must create agents so they can be assigned tickets. Users must also create an account so they can report there issues. 
 </p>
 <br />
 
