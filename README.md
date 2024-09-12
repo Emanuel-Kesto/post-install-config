@@ -29,7 +29,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img  src="https://github.com/user-attachments/assets/9dd71e4d-7aef-461e-b137-2003dd81dccc" alt="Permissions"/>
 </p>
 <p>
- 
+ After installing osTicket, the next task is to create an admin role and configure permissions. After creating the admin role you must create departments, such as networking, help desk and administrator. The next step is to create teams and agents to resolve tickets. All individuals who want access to network resources must create user accounts. Those user accounts are the ones that create tickets if they come accross issues that agents must resolve.  
 </p>
 <br />
 
