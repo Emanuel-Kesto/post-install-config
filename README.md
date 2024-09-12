@@ -29,7 +29,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img  src="https://github.com/user-attachments/assets/9dd71e4d-7aef-461e-b137-2003dd81dccc" alt="Permissions"/>
 </p>
 <p>
-Once all the users and agents are created the next objective is to create SLA's. The first being Sev-A which has an hour grace period on a 24/7 schedule, these type of tickets tend to be high alert and must be resolved as soon as possible. The second is Sev-B which has a 4hr grace period on a 24/7 schedule. The last is Sev-C, which has a 8hr grace period and the schedule tends to be during business hours, Monday-Friday 8am-5pm. 
+ 
 </p>
 <br />
 
@@ -37,7 +37,7 @@ Once all the users and agents are created the next objective is to create SLA's.
 <img src="https://github.com/user-attachments/assets/0900eafb-6288-4ffd-9837-01c071365db3"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once all the users and agents are created the next objective is to create SLA's. The first being Sev-A which has an hour grace period on a 24/7 schedule, these type of tickets tend to be high alert and must be resolved as soon as possible. The second is Sev-B which has a 4hr grace period on a 24/7 schedule. The last is Sev-C, which has a 8hr grace period and the schedule tends to be during business hours, Monday-Friday 8am-5pm. 
 </p>
 <br />
 
