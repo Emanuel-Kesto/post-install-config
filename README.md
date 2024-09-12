@@ -29,7 +29,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img  src="https://github.com/user-attachments/assets/9dd71e4d-7aef-461e-b137-2003dd81dccc" alt="Permissions"/>
 </p>
 <p>
-Once you have a virtual machine with osTicket installed, its time to create ticket visibility. You must create roles such as supreme admin so you can create and assign departments. You can create departments such as help desk or networking, to redirect tickets to the correct department. After creating departments, the next task is to create teams. Last but not least, you must create agents so they can be assigned tickets. Users must also create an account so they can report there issues. 
+Once all the users and agents are created the next objective is to create SLA's. The first being Sev-A which has an hour grace period on a 24/7 schedule, these type of tickets tend to be high alert and must be resolved as soon as possible. The second is Sev-B which has a 4hr grace period on a 24/7 schedule. The last is Sev-C, which has a 8hr grace period and the schedule tends to be during business hours, Monday-Friday 8am-5pm. 
 </p>
 <br />
 
